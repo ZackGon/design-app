@@ -1,0 +1,18 @@
+body{
+
+    background-image: url('https://images5.alphacoders.com/575/thumb-1920-575881.jpg');
+}
+
+.welcome{
+    font-family: 'Lexend Deca';
+}
+
+#round {
+    border-radius: 25px;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    width: 200px;
+    height: 50px;
+  }
